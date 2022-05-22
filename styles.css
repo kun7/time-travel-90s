@@ -1,0 +1,43 @@
+.img-front{
+    border-radius: 50%;
+    border: 5px solid lightblue;
+    height: 200px;
+    
+}
+
+body{
+    background: linear-gradient(coral, purple);
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+}
+h1 {
+    font-family: 'Yesteryear', cursive;
+}
+.img-90{
+    margin: 20px auto;
+    max-width: 400px;
+    height: 300px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/guess.gif");
+
+}
+#img-mmpr:hover{
+    background-image: url("images/MMPR-coin.webp");
+}
+
+#img-arnold:hover{
+    background-image: url("images/arnold.gif");
+}
+
+#img-billnye:hover{
+    background-image: url("images/billnye.gif");
+}
+
+#img-dexters:hover{
+    background-image: url("images/dexterslab.gif");
+}
+
+#img-temple:hover{
+    background-image: url("images/templerun.gif");
+}
